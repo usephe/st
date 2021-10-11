@@ -5,7 +5,7 @@
  *
  * font: see http://freedesktop.org/software/fontconfig/fontconfig-user.html
  */
-static char *font = "Liberation Mono:pixelsize=14:antialias=true:autohint=true:style=bold";
+static char *font = "Cascadia Code:pixelsize=14:antialias=true:autohint=true:style=bold";
 /* Spare fonts */
 static char *font2[] = {
 	"LiterationMono Nerd Font:pixelsize=14:antialias=true:autohint=true",
