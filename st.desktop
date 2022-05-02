@@ -1,0 +1,10 @@
+[Desktop Entry]
+Name=st
+GenericName=Terminal
+Comment=st is a simple terminal
+Icon=utilities-terminal
+Exec=st
+Terminal=false
+Type=Application
+Categories=System;TerminalEmulator;
+Keywords=shell;prompt;command;commandline;cmd;
