@@ -10,7 +10,7 @@ static char *font = "Ubuntu Mono:size=14:antialias=true:autohint=true";
 static char *font2[] = {
 	"LiterationMono Nerd Font:pixelsize=14:antialias=true:autohint=true",
 	"JoyPixels:pixelsize=14:antialias=true:autohint=true",
-
+	"monospace:pixelsize=14:antialias=true:autohint=true",
 };
 
 static int borderpx = 2;
