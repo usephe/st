@@ -5,12 +5,12 @@
  *
  * font: see http://freedesktop.org/software/fontconfig/fontconfig-user.html
  */
-static char *font = "Ubuntu Mono:size=14:antialias=true:autohint=true";
+static char *font = "Ubuntu Mono:size=18:antialias=true:autohint=true";
 /* Spare fonts */
 static char *font2[] = {
-	"LiterationMono Nerd Font:pixelsize=14:antialias=true:autohint=true",
-	"JoyPixels:pixelsize=14:antialias=true:autohint=true",
-	"monospace:pixelsize=14:antialias=true:autohint=true",
+	"LiterationMono Nerd Font:pixelsize=18:antialias=true:autohint=true",
+	"JoyPixels:pixelsize=18:antialias=true:autohint=true",
+	"monospace:pixelsize=18:antialias=true:autohint=true",
 };
 
 static int borderpx = 2;
