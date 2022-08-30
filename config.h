@@ -8,10 +8,9 @@
 static char *font = "Ubuntu Mono:size=18:antialias=true:autohint=true";
 /* Spare fonts */
 static char *font2[] = {
-	"UbuntuMono Nerd Font:size=14",
-	"LiterationMono Nerd Font:pixelsize=18:antialias=true:autohint=true",
-	"JoyPixels:pixelsize=18:antialias=true:autohint=true",
-	"monospace:pixelsize=18:antialias=true:autohint=true",
+	"Ubuntu Nerd Font Mono:pixelsize=14:antialias=true:autohint=true",
+	"JoyPixels:size=18:antialias=true:autohint=true",
+	"monospace:size=18:antialias=true:autohint=true",
 };
 
 static int borderpx = 2;
